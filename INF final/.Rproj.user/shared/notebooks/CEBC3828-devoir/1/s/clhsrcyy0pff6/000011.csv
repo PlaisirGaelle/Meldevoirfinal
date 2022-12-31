@@ -1,0 +1,6 @@
+"0","library(wbstats)
+"
+"2","Warning: le package ‘wbstats’ a été compilé avec la version R 4.0.5"
+"2","Error: package or namespace load failed for ‘wbstats’ in loadNamespace(j <- i[[1L]], c(lib.loc, .libPaths()), versionCheck = vI[[j]]):
+ aucun package nommé ‘lifecycle’ n'est trouvé
+"
